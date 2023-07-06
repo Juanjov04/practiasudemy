@@ -8,7 +8,7 @@ int main()
     scanf("%d",&nota);
 
     if (nota<5){
-        printf("Suspenso");
+        printf("Suspendio");
     }
     else if(nota == 6){
         printf("Bien");
