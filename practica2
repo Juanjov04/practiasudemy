@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    char b1,b2,b3;
+
+    printf("Introduce 3 caracteres\n");
+    scanf("%c %c %c",&b1,&b2,&b3);
+
+    printf("%c-%c-%c",b1,b2,b3);
+
+}
